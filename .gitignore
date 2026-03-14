@@ -17,10 +17,10 @@ lib/
 
 # IDE specific files
 *.iml
-../.idea/
 *.project
 *.classpath
 *.settings/
+.idea
 
 # System Files
 .DS_Store
